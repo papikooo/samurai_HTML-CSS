@@ -1,4 +1,0 @@
-<?php
-$restaurants=[];
-$response="yosakoi";
-?>
